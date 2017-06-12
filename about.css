@@ -1,0 +1,30 @@
+html {
+  font-family: Helvetica;
+  font-size: 16px;
+}
+
+.logo {
+  width: 50%;
+  height: auto;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.about {
+  width: 50%;
+  line-height: 1.3;
+}
+
+a {
+  font-weight: bold;
+  color: black;
+  transition-duration: 200ms;
+}
+
+a:hover {
+  text-decoration: none;
+  font-weight: bold;
+}
